@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/luanmessias/rs23-node-challenge-01/issues"
   },
-  "homepage": "https://github.com/luanmessias/rs23-node-challenge-01#readme"
+  "homepage": "https://github.com/luanmessias/rs23-node-challenge-01#readme",
+  "dependencies": {
+    "csv": "^6.2.6"
+  }
 }
