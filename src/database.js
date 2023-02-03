@@ -33,6 +33,7 @@ export class Database {
     return data
   }
 
+
   insert(table, data) {
     if (Array.isArray(this.#database[table])) {
       this.#database[table].push(data)
